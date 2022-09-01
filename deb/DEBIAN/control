@@ -1,0 +1,9 @@
+Package: USD2CNY
+Version: 1.0
+Priority: optional
+Suggests:
+Architecture: amd64
+Installed-Size: 4096
+Maintainer: Shinohara<cooper@iCooper.cc>
+Provides: iCooper.cc
+Description: A java CLI program to get the real time exchange rate between USD and CNY.
